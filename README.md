@@ -5,3 +5,6 @@
     - A frontend development internship with @IveaLabs 💻
 - Committed to producing high-quality, accessible, and performant work 🔍, I am always looking for new opportunities to learn and grow in the field 🌱.
 - 📨 You can contact me at <ugo.romi@gmail.com>
+
+
+###### *written with the help of ChatGPT*
